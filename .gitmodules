@@ -16,3 +16,6 @@
 [submodule "ceph"]
 	path = ceph
 	url = https://github.com/openstack/puppet-ceph.git
+[submodule "kalimdor"]
+	path = kalimdor
+	url = https://github.com/unitedstack/puppet-kalimdor.git
